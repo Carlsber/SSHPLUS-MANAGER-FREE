@@ -389,7 +389,7 @@ echo ""
 echo -e "\033[1;33m AGUARDE..."
 echo ""
 cd /var/www/html
-wget https://www.dropbox.com/s/ob4vsk0ds2ugt3u/painel15.zip > /dev/null 2>&1
+wget https://drive.google.com/drive/folders/1HEMANPtYveQm4_w16NTNWZmb3Of9LGLu?usp=sharing/painel15.zip > /dev/null 2>&1
 sleep 1
 unzip painel15.zip > /dev/null 2>&1
 rm -rf painel15.zip index.html > /dev/null 2>&1
