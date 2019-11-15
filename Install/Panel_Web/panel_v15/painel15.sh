@@ -93,7 +93,7 @@ echo -e "\033[1;33m AGUARDE..."
 echo ""
 
 cd /var/www/html
-wget http://painelweb.tk/painel15.tar  > /dev/null 2>&1
+wget https://drive.google.com/drive/folders/1HEMANPtYveQm4_w16NTNWZmb3Of9LGLu?usp=sharing/painel15.tar  > /dev/null 2>&1
 sleep 1
 tar -xvf painel15.tar > /dev/null 2>&1
 rm -rf painel15.tar index.html > /dev/null 2>&1
